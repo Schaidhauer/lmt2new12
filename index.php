@@ -1,3 +1,3 @@
 <?php
-echo "Rianne esteve aqui!!";
+echo "Rianne esteve aqui!!  (raiz)";
 ?>
