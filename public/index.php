@@ -1,3 +1,3 @@
 <?php
-echo "Rianne esteve aqui!! public";
+	phpinfo();
 ?>
